@@ -1,0 +1,14 @@
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\bin\Debug\net6.0\Dominio.runtimeconfig.json
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\bin\Debug\net6.0\ref\Dominio.dll
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\EliudBarcenas\source\repos\ProyectoMaestro\Dominio\obj\Debug\net6.0\Dominio.genruntimeconfig.cache
